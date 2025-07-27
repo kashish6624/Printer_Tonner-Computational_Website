@@ -17,3 +17,8 @@ This is a PHP-based web project originally developed and tested using XAMPP. It 
 ## Requirements
 - XAMPP or any local PHP + MySQL server stack
 - Web browser such as Google Chrome
+
+---  
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/71b170a9-f784-475c-ac8b-dbfea756e8ec)
+
