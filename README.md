@@ -1,4 +1,4 @@
-# PHP Web Application
+# Printer Tonner Computational Website
 
 This is a PHP-based web project originally developed and tested using XAMPP. It includes all necessary files (PHP, HTML, CSS, JS, and SQL) for local deployment.
 
